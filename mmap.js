@@ -1,3 +1,5 @@
+/*
+
 var data = '{"characters":[{"name":"carmen","loc":{"latitude":37.81972,"longitude":-122.47861,"note":"Golden Gate Bridge"}}],"students":[{"login":"tlubeck","lat":42.5335,"lng":-71.1036,"created_at":"Tue Oct 07 2014 05:08:03 GMT+0000 (UTC)","_id":"543375331e214f020086c425"},{"login":"mchow","lat":42.5335,"lng":-71.1036,"created_at":"Tue Oct 07 2014 05:00:57 GMT+0000 (UTC)","_id":"543373891e214f020086c424"},{"login":"forbiddencity","lat": 39.9147,"lng": 116.3906,"created_at":"Tue Oct 07 2014 04:59:53 GMT+0000 (UTC)","_id":"543373491e214f020086c423"},{"login":"hawaii","lat": 21.3114,"lng":-157.7964,"created_at":"Tue Oct 07 2014 04:59:03 GMT+0000 (UTC)","_id":"543373171e214f020086c422"},{"login":"effeitower","lat": 48.8582,"lng": 2.2945,"created_at":"Tue Oct 07 2014 04:58:02 GMT+0000 (UTC)","_id":"543372da1e214f020086c421"}]}';
 var map;
 var landmark;
